@@ -114,7 +114,7 @@ These visualizations help understand growth patterns and prediction accuracy.
 
 Clone the repository:
 
-git clone https://github.com/deekshitha240107-hue/predictive-analystics.git
+git clone https://github.com/deekshitha240107-hue/predictive-analysis.git
 
 Move into the project directory:
 
