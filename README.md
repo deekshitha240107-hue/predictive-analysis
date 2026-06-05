@@ -33,9 +33,14 @@ NumPy	Numerical Computations
 Matplotlib	Data Visualization
 Scikit-learn	Machine Learning
 📂 Dataset Structure
+
 Column	Description
+
 Date	Month and Year
+
 Sales	Monthly Sales Revenue
+
+
 Sample Data
 Date,Sales
 2023-01,1200
@@ -44,37 +49,52 @@ Date,Sales
 2023-04,1450
 🔄 Project Workflow
 Historical Data
+
        │
        ▼
+
 Data Cleaning & Preprocessing
+     
        │
        ▼
 Exploratory Data Analysis
+      
        │
        ▼
 Linear Regression Model
+      
        │
        ▼
 Prediction & Forecasting
+       
        │
        ▼
 Performance Evaluation
        │
+       
        ▼
 Visualization & Insights
+
 📊 Model Evaluation Metrics
+
+
 
 The model performance is measured using:
 
 ✅ Mean Absolute Error (MAE)
+
 ✅ R² Score
+
 ✅ Trend Accuracy Analysis
+
 📈 Visualizations
 
 The project generates:
 
 Historical Sales Trend Graph
+
 Actual vs Predicted Sales Comparison
+
 Future Sales Forecast Plot
 
 These visualizations help understand growth patterns and prediction accuracy.
@@ -83,7 +103,7 @@ These visualizations help understand growth patterns and prediction accuracy.
 
 Clone the repository:
 
-git clone https://github.com/your-username/predictive-analytics.git
+git clone https://github.com/deekshitha240107-hue/predictive-analystics.git
 
 Move into the project directory:
 
@@ -101,7 +121,7 @@ python predictive_analytics.py
 📦 Predictive-Analytics
 │
 ├── 📄 sales_data.csv
-├── 📄 predictive_analytics.py
+├── 📄 predictive.py
 ├── 📄 README.md
 │
 └── 📊 output_visualizations
