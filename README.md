@@ -27,11 +27,17 @@ In this project, a Linear Regression Model is built to analyze historical sales 
 
 🛠️ Tech Stack
 Technology	Purpose
+
 Python	Programming Language
+
 Pandas	Data Manipulation
+
 NumPy	Numerical Computations
+
 Matplotlib	Data Visualization
+
 Scikit-learn	Machine Learning
+
 📂 Dataset Structure
 
 Column	Description
@@ -40,39 +46,44 @@ Date	Month and Year
 
 Sales	Monthly Sales Revenue
 
-
 Sample Data
-Date,Sales
-2023-01,1200
-2023-02,1350
-2023-03,1280
-2023-04,1450
-🔄 Project Workflow
-Historical Data
 
+Date,Sales
+
+2023-01,1200
+
+2023-02,1350
+
+2023-03,1280
+
+2023-04,1450
+
+🔄 Project Workflow
+
+Historical Data
        │
        ▼
 
 Data Cleaning & Preprocessing
-     
        │
        ▼
+
 Exploratory Data Analysis
-      
        │
        ▼
+
 Linear Regression Model
-      
        │
        ▼
+
 Prediction & Forecasting
-       
        │
        ▼
+
 Performance Evaluation
        │
-       
        ▼
+
 Visualization & Insights
 
 📊 Model Evaluation Metrics
@@ -117,14 +128,23 @@ pip install pandas numpy matplotlib scikit-learn
 Execute the Python script:
 
 python predictive_analytics.py
+
 📁 Project Structure
+
 📦 Predictive-Analytics
+
 │
+
 ├── 📄 sales_data.csv
+
 ├── 📄 predictive.py
+
 ├── 📄 README.md
+
 │
+
 └── 📊 output_visualizations
+
     └── forecast_chart.png
 
 
@@ -161,11 +181,17 @@ By completing this project, you will gain hands-on experience in:
 🔹 Business Trend Analysis
 
 🚀 Future Enhancements
+
 Implement ARIMA Time Series Forecasting
+
 Add Facebook Prophet Forecasting
+
 Build a Streamlit Dashboard
+
 Include Seasonal Trend Analysis
+
 Deploy the Model as a Web Application
+
 🏆 Conclusion
 
 This project demonstrates how historical data can be transformed into meaningful forecasts using machine learning techniques. It serves as an excellent beginner-friendly introduction to predictive analytics, forecasting, and data-driven decision-making.
